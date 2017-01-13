@@ -1,0 +1,121 @@
+
+/*POSITIONING*/
+.txtC{
+  text-align: center;
+}
+.txtL{
+  text-align: left;
+}
+.txtR{
+  text-align: right;
+}
+
+.center{
+
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+
+.fl_left{
+  float: left;
+  margin-left:5%;
+}
+.fl_right{
+  float: right;
+  margin-right: 5%;
+
+}
+
+.container{
+  float: left;
+  width: 100%;
+}
+
+.btn_big{
+  z-index: 1;
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+  width: 42%;
+  height: 7vh;
+  border-radius: 2vw;
+  border: solid 	 #cccccc 1px;
+  background-color: white;
+  color: #4d4d4d;
+  text-align: center;
+  line-height: 7vh;
+  box-shadow: 0px 0px 5px #4d4d4d;
+  font-size: 8vw;
+  text-shadow: 1px 1px 1px #cccccc;
+  font-family: sans-serif;
+  user-select: none;
+        -moz-user-select: none;
+        -khtml-user-select: none;
+        -webkit-user-select: none;
+        -o-user-select: none;
+}
+
+.btn_big:active{
+  background-color: f2f2f2;
+  color: 000000;
+  box-shadow: none;
+}
+
+.btn_wide{
+  z-index: 1;
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+  width: 90%;
+  height: 7vh;
+  border-radius: 2vw;
+  border: solid 	 #cccccc 1px;
+  background-color: white;
+  color: #4d4d4d;
+  text-align: center;
+  line-height: 7vh;
+  box-shadow: 0px 0px 5px #4d4d4d;
+  font-size: 8vw;
+  text-shadow: 1px 1px 1px #cccccc;
+  font-family: sans-serif;
+  user-select: none;
+        -moz-user-select: none;
+        -khtml-user-select: none;
+        -webkit-user-select: none;
+        -o-user-select: none;
+}
+
+.btn_wide:active{
+  background-color: f2f2f2;
+  color: 000000;
+  box-shadow: none;
+}
+
+.btn_sm{
+  z-index: 1;
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+  width: 7vh;
+  height: 7vh;
+  border-radius: 2vw;
+  border: solid 	 #cccccc 1px;
+  background-color: white;
+  color: #4d4d4d;
+  text-align: center;
+  line-height: 7vh;
+  box-shadow: 0px 0px 5px #4d4d4d;
+  font-size: 8vw;
+  text-shadow: 1px 1px 1px #cccccc;
+  font-family: sans-serif;
+  user-select: none;
+        -moz-user-select: none;
+        -khtml-user-select: none;
+        -webkit-user-select: none;
+        -o-user-select: none;
+}
+
+.btn_sm:active{
+  background-color: f2f2f2;
+  color: 000000;
+  box-shadow: none;
+}
